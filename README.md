@@ -1,3 +1,16 @@
-This is my repository that I have Created for my Class files.
+This is the repo for CS 490. This file will be updated throughout the semester to show what the i am currently doing in class.
 
-I first made a repo on github.com. then made the files on my local computer, and added all the folders necessary. I will add the files that come through out the year into each folder and update and push them to my repo when needed.
+https://docs.google.com/spreadsheets/d/1KZx4TbMLeN5og03puJM4E9_mdIxNQl32rwwg6MUmeb0/edit?usp=sharing
+Class assignments completed:
+1 ---------
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
